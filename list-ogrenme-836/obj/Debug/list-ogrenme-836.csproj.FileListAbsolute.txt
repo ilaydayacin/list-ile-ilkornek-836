@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\list-ogrenme-836\list-ogrenme-836\bin\Debug\list-ogrenme-836.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\list-ogrenme-836\list-ogrenme-836\bin\Debug\list-ogrenme-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\list-ogrenme-836\list-ogrenme-836\bin\Debug\list-ogrenme-836.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\list-ogrenme-836\list-ogrenme-836\obj\Debug\list-ogrenme-836.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\list-ogrenme-836\list-ogrenme-836\obj\Debug\list-ogrenme-836.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\list-ogrenme-836\list-ogrenme-836\obj\Debug\list_ogrenme_836.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\list-ogrenme-836\list-ogrenme-836\obj\Debug\list_ogrenme_836.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\list-ogrenme-836\list-ogrenme-836\obj\Debug\list-ogrenme-836.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\list-ogrenme-836\list-ogrenme-836\obj\Debug\list-ogrenme-836.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\list-ogrenme-836\list-ogrenme-836\obj\Debug\list-ogrenme-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\list-ogrenme-836\list-ogrenme-836\obj\Debug\list-ogrenme-836.pdb
